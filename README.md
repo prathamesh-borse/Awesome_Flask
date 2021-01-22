@@ -19,7 +19,7 @@
 
 ## Table of Contents
 
-- [Free EBooks](#free_ebooks)
+- [Free EBooks](#free-ebooks)
 - [Documentation](#official_Documentation)
 - [Courses](#flask_courses)
 - [Blogs](#blogs)
