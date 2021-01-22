@@ -19,18 +19,17 @@
 
 ## Table of Contents
 
-- [Free eBooks](#free_ebooks)
+- [Free EBooks](#free_ebooks)
 - [Documentation](#official_Documentation)
 - [Courses](#flask_courses)
 - [Blogs](#blogs)
 - [Youtube Channels](#youtube_channels)
 - [Websites](#websites_flask)
 
-## Free eBooks
+## Free EBooks
 
 >Websites that Gives you the Free Books Related to the Flask Micro Web Framework
 
-## Websites 
 - [PDFDRIVE](https://www.pdfdrive.com/flask-books.html)
 
 <div align="right">
