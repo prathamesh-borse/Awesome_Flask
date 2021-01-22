@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo.png" alt="Awesome_Flask">
+	<img src="media/logo.png" alt="Awesome_Flask">
 	<br>
   
 # Awesome_Flask
