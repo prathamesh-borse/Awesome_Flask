@@ -33,8 +33,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [PDFDRIVE](https://www.pdfdrive.com/flask-books.html)                                                    | This website contains various books related to Flask               |
-
-- [PDFDRIVE](https://www.pdfdrive.com/flask-books.html)
+| [coddyschool](https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf)                       | This book will teach you flask from basic to advanced              | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
