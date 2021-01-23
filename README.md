@@ -24,7 +24,6 @@
 - [Courses](#flask_courses)
 - [Blogs](#blogs)
 - [Youtube Channels](#youtube_channels)
-- [Websites](#websites_flask)
 
 ## Free EBooks
 
