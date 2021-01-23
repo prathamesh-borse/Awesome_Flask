@@ -35,6 +35,8 @@
 | [PDFDRIVE](https://www.pdfdrive.com/flask-books.html)                                                    | This website contains various books related to Flask               |
 | [coddyschool](https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf)                       | This book will teach you flask from basic to advanced              | 
 | [Github](https://github.com/gary136/ebook/blob/master/Flask%20Web%20Development.pdf)                     | This book have the very good example and explanation               |
+| [Read the Docs](https://media.readthedocs.org/pdf/flask/latest/flask.pdf)                                | This book has a explaination related to the Flask Framework        |
+| [Explore Flask](http://exploreflask.com/_/downloads/en/latest/pdf/)                                      | This is a book related to the Flask Micro Web Framework            |
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -49,6 +51,7 @@
 | [Flask](https://flask.palletsprojects.com/en/1.1.x/)                                                     | This is a official documentation website for learning Flask        |
 | [Flask Doc](https://flask-doc.readthedocs.io/en/latest/)                                                 | This website has a detailed explaination to learn flask            | 
 | [Pythonhosted](https://pythonhosted.org/Flask-Security/)                                                 | This is a Website contains Explaination related to flask Security  |
+| [Programminghistorian](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)  | This website will teach how to make apis using python and flask    | 
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
