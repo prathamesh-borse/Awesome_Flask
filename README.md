@@ -98,8 +98,10 @@
 | --------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------- |
 | [Freecodecamo](https://youtu.be/Z1RJmh_OqeA)                                                              | This video will teach you flask by creating a CRUD Application    |
 | [edureka](https://youtu.be/lj4I_CvBnt0)                                                                   | This video will tell you flask from basic to how to use templates | 
-| [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)                     | This playlist is created by understanding the beginner perspective| 
+| [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)                     | This playlist is created by understanding the beginner perspective|
+| [Techwithtime](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)                  | This playlist will tell you how to make websites using flask      |
 | [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)                     | This playlist teach you how to create real time Websites in flask | 
+| [Clever Programmer](https://www.youtube.com/watch?v=3mwFC4SHY-Y)                                          | This 3 hour video will tell you how to make blogging app in flask |
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
