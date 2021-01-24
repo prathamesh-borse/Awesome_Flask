@@ -22,8 +22,8 @@
 - [Free EBooks](#free-ebooks)
 - [Documentation](#Documentation)
 - [Courses](#Courses)
-- [Blogs](#blogs)
-- [Youtube Channels](#youtube_channels)
+- [Blogs](#Blogs)
+- [Youtube Channels](#Youtubechannels)
 
 ## Free EBooks
 
@@ -70,6 +70,32 @@
 | [Udemy](https://www.udemy.com/course/python-flask-for-beginners/)                                        | Learn how to create your own web applications with Python Flask.   |
 | [hackr.io](https://hackr.io/tutorials/learn-flask)                                                       | This contains a list of freely available flask framework courses   | 
 | [Coursesity](https://coursesity.com/free-tutorials-learn/flask)                                          | This contains a variety of flask coruses from beginner to advanced |
+
+<div align="left">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Blogs
+
+>Following are the list of Blogs that gives you better understanding to learn flask
+
+| Courses&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Flask](https://flask.palletsprojects.com/en/1.1.x/tutorial/blog/)                                       | This is a blog related to the flask framework                      |
+| [Miguelgrinberg.blog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)   | This blog contains tutorials from hello world to advanced          |  | [soshace.com](https://soshace.com/how-to-create-a-personal-blogging-website-part-1/)                     | This blog will teach you how to create blogging website using flask| | [Techwithtim](https://www.techwithtim.net/tutorials/flask/)                                              | This blog will teach you how to add HTML templates to flask Webapp | 
+
+<div align="left">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Youtubechannels
+
+>This is a list of all Youtube Channels that will teach you flask from basic to advanced
+
+| Courses&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Description                                                                    |
+| -----------------------------------------------------------------------------------------    | ------------------------------------------------------------------------------ |
+| [Freecodecamp](https://youtu.be/Z1RJmh_OqeA)                                                 | This youtube video will teach you flask from initial workflow setup to advanced|
+| [edureka](https://youtu.be/lj4I_CvBnt0)                                                      | This youtube tutorial is for beginner who loves web development                |  | [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)        | This youtube playlist created from understanding the beginner perspective      | | [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)        | This playlist will teach you flask by creating a real time websites            | 
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
