@@ -82,7 +82,9 @@
 | Blogs&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Description                                                        |
 | ------------------------------------------------------------------------------------------------------   | ------------------------------------------------------------------ |
 | [Flask](https://flask.palletsprojects.com/en/1.1.x/tutorial/blog/)                                       | This is a blog related to the flask framework                      |
-| [Miguelgrinberg.blog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)   | This blog contains tutorials from hello world to advanced          |  | [soshace.com](https://soshace.com/how-to-create-a-personal-blogging-website-part-1/)                     | This blog will teach you how to create blogging website using flask| | [Techwithtim](https://www.techwithtim.net/tutorials/flask/)                                              | This blog will teach you how to add HTML templates to flask Webapp | 
+| [Miguelgrinberg.blog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)   | This blog contains tutorials from hello world to advanced          | 
+| [soshace.com](https://soshace.com/how-to-create-a-personal-blogging-website-part-1/)                     | This blog will teach you how to create blogging website using flask| 
+| [Techwithtim](https://www.techwithtim.net/tutorials/flask/)                                              | This blog will teach you how to add HTML templates to flask Webapp | 
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
