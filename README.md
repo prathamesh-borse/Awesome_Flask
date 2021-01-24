@@ -95,8 +95,7 @@
 | Courses&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   | Description                                                                    |
 | ------------------------------------------------------------------------------------------   | ------------------------------------------------------------------------------ |
 | [Freecodecamp](https://youtu.be/Z1RJmh_OqeA)                                                 | This youtube video will teach you flask from initial workflow setup to advanced|
-| [edureka](https://youtu.be/lj4I_CvBnt0)                                                      | This youtube tutorial is for beginner who loves web development                | | [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)        | This youtube playlist created from understanding the beginner perspective      |
-| [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)        | This playlist will teach you flask by creating a real time websites            |
+| [edureka](https://youtu.be/lj4I_CvBnt0)                                                      | This youtube tutorial is for beginner who loves web development                | | [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)        | This playlist will teach you flask by creating a real time websites            |
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
