@@ -94,7 +94,12 @@
 
 >This is a list of all Youtube Channels that will teach you flask from basic to advanced
 
-
+| Channels&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
+| --------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------- |
+| [Freecodecamo](https://youtu.be/Z1RJmh_OqeA)                                                              | This video will teach you flask by creating a CRUD Application    |
+| [edureka](https://youtu.be/lj4I_CvBnt0)                                                                   | This video will tell you flask from basic to how to use templates | 
+| [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)                     | This playlist is created by understanding the beginner perspective| 
+| [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)                     | This playlist teach you how to create real time Websites in flask | 
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
