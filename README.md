@@ -21,7 +21,7 @@
 
 - [Free EBooks](#free-ebooks)
 - [Documentation](#Documentation)
-- [Courses](#flask_courses)
+- [Courses](#Courses)
 - [Blogs](#blogs)
 - [Youtube Channels](#youtube_channels)
 
@@ -36,6 +36,8 @@
 | [Github](https://github.com/gary136/ebook/blob/master/Flask%20Web%20Development.pdf)                     | This book have the very good example and explanation               |
 | [Read the Docs](https://media.readthedocs.org/pdf/flask/latest/flask.pdf)                                | This book has a explaination related to the Flask Framework        |
 | [Explore Flask](http://exploreflask.com/_/downloads/en/latest/pdf/)                                      | This is a book related to the Flask Micro Web Framework            |
+| [freecomputerbooks](https://bit.ly/3pdQsSu)                                                              | This website containes a list of free ebooks for Flask Framework   |
+| [freetechbooks](https://www.freetechbooks.com)                                                           | This website has a various books related to the Flask              |
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -51,6 +53,23 @@
 | [Flask Doc](https://flask-doc.readthedocs.io/en/latest/)                                                 | This website has a detailed explaination to learn flask            | 
 | [Pythonhosted](https://pythonhosted.org/Flask-Security/)                                                 | This is a Website contains Explaination related to flask Security  |
 | [Programminghistorian](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)  | This website will teach how to make apis using python and flask    | 
+| [TutorialsPoint](https://www.tutorialspoint.com/flask/flask_tutorial.pdf)                                | This Books contains a documentation as well as Explaination        |
+
+<div align="left">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Courses
+
+>Following are the list of freely available courses related to the Flask Framework
+
+| Courses&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [eda](https://www.edx.org/learn/flask)                                                                   | This are the list of courses related to the flask                  |
+| [Rithmschool](https://www.rithmschool.com/courses/flask-fundamentals)                                    | This course will teach you the fundamentals of the flask framework | 
+| [Udemy](https://www.udemy.com/course/python-flask-for-beginners/)                                        | Learn how to create your own web applications with Python Flask.   |
+| [hackr.io](https://hackr.io/tutorials/learn-flask)                                                       | This contains a list of freely available flask framework courses   | 
+| [Coursesity](https://coursesity.com/free-tutorials-learn/flask)                                          | This contains a variety of flask coruses from beginner to advanced |
 
 <div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
