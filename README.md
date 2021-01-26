@@ -17,6 +17,9 @@
 ![Awesome_Flask](./cover.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
+#### For Executing your first Flask Website use this Steps [`readme.md`](./Basic_Example/readme.md)
+
+
 ## Table of Contents
 
 - [Free EBooks](#free-ebooks)
