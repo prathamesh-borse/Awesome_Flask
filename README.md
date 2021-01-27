@@ -110,5 +110,5 @@
 </div>
 
 <h4 align="center">
-  Show some ❤️ by starring ⭐ some of the repository!
+  Show some ❤️ by giving star ⭐ to this repository!
 </h4>
